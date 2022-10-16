@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "subregion": "South America",
+        "population": 32971846,
+        "flags": {
+            "svg": "https://flagcdn.com/pe.svg",
+            "png": "https://flagcdn.com/w320/pe.png"
+        }
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "subregion": "Southern Europe",
+        "population": 10715549,
+        "flags": {
+            "svg": "https://flagcdn.com/gr.svg",
+            "png": "https://flagcdn.com/w320/gr.png",
+            "png2": "https://flagcdn.com/224x168/gr.png"
+        }
+    },
+    {
+        "name": "france",
+        "capital": "Paris",
+        "subregion": "Western Europe",
+        "population": 67391582,
+        "flags": {
+            "svg": "https://flagcdn.com/fr.svg",
+            "png": "https://flagcdn.com/w320/fr.png"
+        }
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "subregion": "South America",
+        "population": 45376763,
+        "flags": {
+            "svg": "https://flagcdn.com/ar.svg",
+            "png": "https://flagcdn.com/w320/ar.png"
+        }
+    },
+    {
+        "name": "England",
+        "capital": "London",
+        "subregion": "Northern Europe",
+        "population": 67215293,
+        "flags": {
+            "svg": "https://flagcdn.com/gb.svg",
+            "png": "https://flagcdn.com/w320/gb.png"
+        }
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "subregion": "Eastern Asia",
+        "population": 1402112000,
+        "flags": {
+            "svg": "https://flagcdn.com/cn.svg",
+            "png": "https://flagcdn.com/w320/cn.png"
+        }
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "subregion": "Eastern Asia",
+        "population": 1402112000,
+        "flags": {
+            "svg": "https://flagcdn.com/jp.svg",
+            "png": "https://flagcdn.com/w320/jp.png"
+        }
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "subregion": "North America",
+        "population": 128932753,
+        "flags": {
+            "svg": "https://flagcdn.com/mx.svg",
+            "png": "https://flagcdn.com/w320/mx.png"
+        }
+    }
+]
